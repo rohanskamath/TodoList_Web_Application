@@ -19,7 +19,7 @@ This is a simple ToDo list web application built using React.js. It provides fun
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/TodoList_Web_Application.git
+    git clone https://github.com/rohanskamath/TodoList_Web_Application.git
     ```
 
 2. Navigate to the project directory.
